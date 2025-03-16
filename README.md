@@ -52,5 +52,4 @@ El diseño de este sistema está orientado a ser escalable, soportando grandes v
 
 ### 1. **Clonar el Repositorio**
 ```bash
-git clone https://github.com/usuario/proyecto-cripto.git
-cd proyecto-cripto
+git clone https://github.com/FelipeACruz/bitcoinPricect.git
